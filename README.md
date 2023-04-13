@@ -1,3 +1,3 @@
-Para inicializar el formulario debes utilizar el siguiente comando: "npm run dev"; para inicializar nuestro backend ahora debes utilizar el comando:  "nodemon start".
+Para empezar a utilizar el formulario, es necesario ejecutar el comando "npm run dev". Para arrancar el servidor del backend, debes utilizar el comando "nodemon start".
 
-Si llega a ocurrir algún error inesperado es necesario que revises los puertos, ya que la parte del backend está configurado en el http://localhost:3000 y la parte del frontend en el http://localhost:5173.
+En caso de encontrar algún error inesperado, es importante verificar los puertos. Ten en cuenta que el puerto del backend está configurado en el http://localhost:3000, mientras que el del frontend está en http://localhost:5173.
